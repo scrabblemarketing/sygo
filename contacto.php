@@ -42,55 +42,7 @@
             </div>
         </div>
     </header>
-<body>
 
-<div class="main-wrapper">
-
-    <!-- Header Section Start -->
-    <div class="header-section section bg-theme">
-        <div class="container">
-            <div class="row">
-                
-                <!-- Header Logo -->
-                <div class="col-3">
-                    <div class="header-logo">
-                        <a href="index.html">
-                            <img src="assets/images/logo.png" alt="">
-                        </a>
-                    </div>
-                </div>
-                
-                <!-- Main Menu -->
-                <div class="col-9 d-none d-lg-block">
-                    <nav class="main-menu">
-                        <ul>
-                            <li><a href="index.html">INICIO</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.html">QUIENES SOMOS</a></li>
-                            <li><a href="shop-4-column.html">TRABAJA CON NOSOTROS</a>
-                               
-                            </li>
-                          
-                          
-                            <li><a href="contact.html">CONTACTO</a></li>
-                        </ul>
-                    </nav>
-                </div>
-                
-                <!-- Header Action -->
-               
-                
-                <div class="col-12 d-block d-lg-none">
-                    <div class="mobile-menu"></div>
-                </div>
-                
-            </div>
-        </div>
-    </div><!-- Header Section End -->
     
     
     <!-- Contact Section Start -->

@@ -525,3 +525,52 @@ label.cv span{
   .referencias .col-md-4 p span{
 
   }
+
+
+  .puestos{
+      margin: 90px auto 60px;
+  }
+  .puestos .card{
+      border-radius: 42px;
+      margin-bottom: 40px;
+  }
+  .puestos .card .imagen-pro{
+      height: 230px;
+      border-radius: 42px 42px 0 0;
+      background-size: cover;
+      background-position: center center;
+  }
+  .puestos span{
+      display: block;
+      color:#B1B3B3;
+      text-align: center;
+  }
+  .puestos .card .botones-card{
+    display: flex;
+    flex:  0 0 auto;
+  }
+  .puestos .card .botones-card a{
+    color:#fff;
+    text-align: center;
+    flex:  0 0 auto;
+    width: 50%;
+    border: none;
+    padding: 1rem;
+    font-size: 1.2rem;
+    transition: all .4s ease;
+  }
+
+.puestos .card .botones-card a:first-of-type{
+    background-color:#961EF0;
+    border-radius: 0 0 0 42px;
+}
+.puestos .card .botones-card a:first-of-type:hover{
+    background-color: #7b1cc4;
+}
+.puestos .card .botones-card a:last-of-type{
+    background-color:#6919E3;
+    border-radius: 0 0 42px 0;
+}
+.puestos .card .botones-card a:last-of-type:hover{
+    background-color:#530bbe;
+}
